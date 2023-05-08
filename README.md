@@ -31,6 +31,7 @@ npm install sequelize
 npm install dotenv
 npm install mysql2
 npm install connect-session-sequelize
+npm install bcrypt
 
 ## Usage instructions
 
