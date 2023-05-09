@@ -13,11 +13,11 @@ Challenge 14: Model-View-Controller (MVC) Challenge: Tech Blog
 
 ## Link  
 
-[Click here](https://ecinematic.github.io/Calandra/) to view the application deployed on GitHub.   
+
 
 ## Description  
 
-Nothing ruins a picnic more than bad weather. But there's never been a better time check the weather in real time with Calandra 
+Writing about tech should be left for just any old text app. Documenting tech is as important as creating it. Parakeet gives you just the features you need for a journal. 
 
 ## Screenshot  
 
@@ -39,9 +39,9 @@ N/A
 
 ## Technologies Used    
 
-* HTML
-* Bootstrap
 * Javascript
+* Handlebars
+* MySQL
 
 ## Credits
 
